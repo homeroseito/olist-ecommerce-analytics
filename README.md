@@ -29,9 +29,9 @@ olist-ecommerce-analytics/
 │   ├── 03_payment_type_installment_analysis.sql
 │   ├── 04_delivery_sla_lead_time_analysis.sql
 │   └── 05_customer_retention_frequency_analysis.sql
-├── 02_python_eda/
+├── 02_ecommerce_eda/
 │   ├── notebooks/
-│   │   └── 01_exploratory_data_analysis.ipynb
+│   │   └── 02_ecommerce_eda.ipynb
 │   ├── requirements.txt
 │   └── README.md
 ├── 03_powerbi_dashboard/
